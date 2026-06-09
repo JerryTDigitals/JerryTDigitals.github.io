@@ -1,0 +1,7 @@
+title: Jerry-T Digital Services
+description: SaaS, Engineering, Automation & Digital Systems
+theme: minima
+
+markdown: kramdown
+
+permalink: /blog/:title/
