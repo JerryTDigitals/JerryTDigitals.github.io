@@ -30,9 +30,9 @@ I build clear, structured, and impactful technical content that helps businesses
 ---
 
 ## 📞 Contact
-- Email: your-email@example.com
-- LinkedIn: your-link
-- Portfolio: https://jerrydigitals.github.io/writing-portfolio/
+- Email: jeremiahterakaa@gmail.com
+- Portfolio: https://jerrytdigitals.github.io/
+- 08151417031 or 09019449630
 
 ---
 
